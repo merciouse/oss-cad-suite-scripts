@@ -5,4 +5,6 @@ Run the script present using,
 wget -qO- https://raw.githubusercontent.com/merciouse/oss-cad-suite-scripts/script.sh | bash
 ```
 NOTE: It is recommended to not run scripts blindly off the internet, you are free to inspect script.sh present here.
+
+
 TODO: Grab releases of oss-cad-suite as they come and add "update" facility.
